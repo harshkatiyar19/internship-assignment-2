@@ -1,1 +1,1 @@
-hello from develop
+This line was merged manually from both branches.
